@@ -14,4 +14,4 @@
 Работу загрузить на `GitHub`, в свой личный репозиторий. Когда готово - отправляем ссылку на репозиторий. 
 (P.S. Эту работу сдаем без код ревью, работаем в одной ветке. GitHub используем только для передачи кода.)
 
-Урок: (http://webcademy.getcourse.ru/pl/teach/control/lesson/view?id=32511044&editMode=0 "Урок")
+[Урок:](http://webcademy.getcourse.ru/pl/teach/control/lesson/view?id=32511044&editMode=0 "Урок")
