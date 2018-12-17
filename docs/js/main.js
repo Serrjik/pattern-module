@@ -2,7 +2,7 @@
 
 var counter = (function () {
 	// Приватные переменные (начинаются с нижнего подчёркивания)
-	var __number;
+	var _number;
 
 	// Приватные методы
 	var _checkPositive = function(positiveNumber){
